@@ -24,5 +24,5 @@ Follow the steps below.
 
 The final result should be an animated GIF that shows how the center of biomass for a certain species has moved through time and space.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/wajra/fisheries-course-summer-2022/tree/main/c_biomass_images_yearly/gifs/black_sea_bass_through_time.gif)
 
