@@ -142,4 +142,5 @@ for (y in years){
 }
 
 
-# Next step is to make a GIF from these 
+# Next step is to make a GIF from these
+# You can use this website to make some animated GIFS - https://imgflip.com/gif-maker
