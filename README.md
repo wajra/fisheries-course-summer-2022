@@ -22,7 +22,4 @@ Follow the steps below.
 **Step 2** - Set a species of your own choice. Create a series of maps through time  
 **Step 3** - Create an animated GIF that shows how the species has shifted their distribution across the year.  
 
-The final result should be an animated GIF that shows how the center of biomass for a certain species has moved through time and space.
-
-![Alt Text](https://imgur.com/a/BhOkA8f)
-
+The final result should be an animated GIF that shows how the center of biomass for a certain species has moved through time and space. [Click here](https://github.com/wajra/fisheries-course-summer-2022/blob/main/c_biomass_images_yearly/gifs/black_sea_bass_through_time.gif) to see the final result.
