@@ -144,3 +144,10 @@ for (y in years){
 
 # Next step is to make a GIF from these
 # You can use this website to make some animated GIFS - https://imgflip.com/gif-maker
+
+
+# Next steps that you can explore
+# 1. If you can't see a species in the above map, just change the bounding box. That should help
+# 2. Average the center of biomass across a larger period of time (5 years??)
+# and see how the center of biomass moved
+# 3. Get creative!!!
